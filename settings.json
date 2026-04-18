@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " ICSKOfficialMCSERVER.aternos.me:56288",
+    "ip": "ICSKOfficialMCSERVER.aternos.me:56288",
     "port": 56288,
     "version": "",
     "try-creative": false
